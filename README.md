@@ -1,6 +1,8 @@
 # TreasureHunt
 TreasureHunt game website developed with Laravel 9 and MySQL
 
+# Instructiuni
+
 Clone the repository
 
     git clone https://github.com/radumihai8/
@@ -16,3 +18,7 @@ Run the database migrations (**Set the database connection in .env**)
 Start the local development server
 
     php artisan serve
+    
+# Diagrama UML
+
+![DiagramaUML](https://user-images.githubusercontent.com/17956023/173894446-f84629a9-2169-4e34-866e-0f547bba43ff.png)
