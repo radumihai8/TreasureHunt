@@ -1,7 +1,7 @@
 # TreasureHunt
 TreasureHunt game website developed with Laravel 9 and MySQL
 
-#Prezentare
+# Prezentare
 [Prezentare MDS.pdf](https://github.com/radumihai8/TreasureHunt/files/8913186/Prezentare.MDS.pdf)
 
 # User Stories
