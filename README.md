@@ -28,9 +28,9 @@ Start the local development server
 For this project we used Laravel 9, which is an open source framework for PHP, intended for the development of web applications following the model–view–controller architectural pattern
 
 This framework implements the following design patterns:
-    [x] Builder pattern
-    [x] Factory pattern
-    [x] Strategy pattern
-    [x] Provider pattern
-    [x] Repository pattern
-    [x] Facade pattern
+    - Builder pattern
+    - Factory pattern
+    - Strategy pattern
+    - Provider pattern
+    - Repository pattern
+    - Facade pattern
