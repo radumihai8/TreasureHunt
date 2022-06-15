@@ -2,7 +2,11 @@
 TreasureHunt game website developed with Laravel 9 and MySQL
 
 # Prezentare
-[Prezentare MDS.pdf](https://github.com/radumihai8/TreasureHunt/files/8913186/Prezentare.MDS.pdf)
+Cerintele pentru acest proiect se gasesc rezolvate in aceasta prezentare!
+[Click aici](https://www.canva.com/design/DAFDsRi-VCY/5ju3fmwu7UCpCFNf6YI-cQ/view?utm_content=DAFDsRi-VCY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+# Demo
+https://www.youtube.com/watch?v=m5RaEhru6xw
 
 # User Stories
 
