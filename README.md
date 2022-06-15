@@ -1,6 +1,8 @@
 # TreasureHunt
 TreasureHunt game website developed with Laravel 9 and MySQL
 
+Live demo: [Click aici](http://206.81.20.104/)
+
 # Prezentare
 Cerintele pentru acest proiect se gasesc rezolvate in aceasta prezentare!
 [Click aici](https://www.canva.com/design/DAFDsRi-VCY/5ju3fmwu7UCpCFNf6YI-cQ/view?utm_content=DAFDsRi-VCY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
