@@ -32,6 +32,6 @@ This framework implements the following design patterns:
     - [x] Builder pattern
     - [x] Factory pattern
     - [x] Strategy pattern
-    - [x]  Provider pattern
+    - [x] Provider pattern
     - [x] Repository pattern
     - [x] Facade pattern
