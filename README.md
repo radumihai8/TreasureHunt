@@ -37,6 +37,11 @@ https://www.youtube.com/watch?v=m5RaEhru6xw
 
 10. Ca Administrator, vreau sa vad toti Playerii si toate jocurile pentru a tine evidenta aplicatiei.
 
+# Backlog Creation
+
+![KXkOi2o](https://user-images.githubusercontent.com/17956023/173932038-01aed185-0306-4fed-bd31-6ca77f3a41db.png)
+
+
 # Instructiuni
 
 Clone the repository
